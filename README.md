@@ -1,2 +1,2 @@
-# level-up-koinonia
-Jogo multiplayer interativo do Ministério Apostólico Koinonia.
+# meu-plano-nutricao
+Aplicativo web e acompanhamento de dieta
